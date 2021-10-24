@@ -1,1 +1,1 @@
-# IMSB-Dataset-Reviews-Predictions
+# IMDB-Dataset-Reviews-Predictions
